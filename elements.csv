@@ -55,7 +55,7 @@ atomic_number,name,symbol,atomic_weight,group,period,availability
 54,Xenon,Xe,131.29,18,5,no
 55,Cesium,Cs,132.91,1,6,no
 56,Barium,Ba,137.33,2,6,no
-57,Lanthanum,La,138.91,*,f-block,Yes
+57,Lanthanum,La,138.91,3,6,Yes
 58,Cerium,Ce,140.12,*,f-block,Yes
 59,Praseodymium,Pr,140.91,*,f-block,Yes
 60,Neodymium,Nd,144.24,*,f-block,Yes
