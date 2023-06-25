@@ -3,4 +3,4 @@
 
 Contents:
 1. The file "available_elements.csv" contains the information about the elements included in the datasets of IMCATHEA. The 41 elements which are available in the datasets of automatic featurization are labelled "YES" in the "availability" column of the csv file whereas the remaining elements which are not included in the datasets are labeled "NO" in the column.
-2. The "mpea_featurization.csv" contains the data of 24 sample MPEAs that are featurized using composition-based feature vectors (CBFV) method by the auttomatic featurizer.
+2. The "mpea_featurization.csv" contains the data of 24 sample MPEAs that are featurized using composition-based feature vectors (CBFV) method by the auttomatic featurizer. It is to be noted that the automatic featurization applies to any generic MPEA composed of the element from the list of 41 elements  (elements marked "Yes" in the availability column of "available_elements.csv".
